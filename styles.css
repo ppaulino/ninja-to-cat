@@ -1,0 +1,32 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	color: #3B8686;
+	margin-bottom: 10px;
+}
+
+#container {
+	width: 980px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+#header {
+	margin-top: 10px;
+	text-align: center;
+}
+
+#main {
+	margin-top: 30px;
+	text-align: center;
+}
+
+.imgbox {
+	width: 181px;
+	height: 61px;
+	margin: 0 auto;
+}
